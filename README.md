@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepak476P/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Deepak476P/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak476P/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak476P/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak476P/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Deepak476P/LeetCode/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/Deepak476P/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak476P/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Deepak476P/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak476P/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak476P/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
