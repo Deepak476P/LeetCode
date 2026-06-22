@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Deepak476P/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak476P/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Deepak476P/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak476P/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Monotonic Stack
 |  |
