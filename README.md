@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak476P/LeetCode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak476P/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak476P/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Deepak476P/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepak476P/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak476P/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Deepak476P/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepak476P/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deepak476P/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
