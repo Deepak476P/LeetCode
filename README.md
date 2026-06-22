@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepak476P/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Deepak476P/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak476P/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0059-spiral-matrix-ii](https://github.com/Deepak476P/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Deepak476P/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak476P/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak476P/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Deepak476P/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepak476P/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Deepak476P/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak476P/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Deepak476P/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
