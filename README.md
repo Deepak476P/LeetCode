@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Deepak476P/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepak476P/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Deepak476P/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Deepak476P/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepak476P/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
+| [3612-process-string-with-special-operations-i](https://github.com/Deepak476P/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
