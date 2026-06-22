@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepak476P/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Deepak476P/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak476P/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Deepak476P/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak476P/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak476P/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak476P/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Deepak476P/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak476P/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak476P/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Monotonic Stack
