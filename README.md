@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepak476P/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Deepak476P/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepak476P/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1732-find-the-highest-altitude](https://github.com/Deepak476P/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Deepak476P/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak476P/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Deepak476P/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Deepak476P/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
