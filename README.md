@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepak476P/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/Deepak476P/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Deepak476P/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Deepak476P/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak476P/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak476P/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Deepak476P/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak476P/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepak476P/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Deepak476P/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak476P/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
