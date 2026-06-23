@@ -13,12 +13,12 @@ class Solution {
             for(int i=0;i<s2.length();i++){
                 char ch=s2.charAt(i);
                 window.put(ch,window.getOrDefault(ch,0)+1);
-                while((i-low+1)>s1.length()){
-                    char c1=s2.charAt(low);
-                    window.put(s2.charAt(low),window.get(s2.charAt(low))-1);
-                    if(window.get(s2.charAt(low))==0){
-                        window.remove(s2.charAt(low));
-                    }
+                while((i - low + 1) > s1.length()){
+                    char c1 = s2.charAt(low);
+                    window.put(c1, window.get(c1) - 1);
+                    if(window.get(c1) == 0){
+                        window.remove(c1);
+                        }
                     low++;
                 }
                 if(window.equals(map)){
