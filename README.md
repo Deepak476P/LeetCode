@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deepak476P/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak476P/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Deepak476P/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Deepak476P/LeetCode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak476P/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak476P/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deepak476P/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak476P/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Deepak476P/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Deepak476P/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak476P/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak476P/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak476P/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepak476P/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Deepak476P/LeetCode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak476P/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak476P/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepak476P/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak476P/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Deepak476P/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
