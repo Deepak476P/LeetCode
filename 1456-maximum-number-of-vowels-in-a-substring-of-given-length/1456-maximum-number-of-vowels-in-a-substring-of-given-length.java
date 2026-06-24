@@ -1,33 +1,31 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int low=0;
-        int count=0;
-        for(int i=0;i<k;i++){
-            char c=s.charAt(i);
-            if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'){
+
+        int count = 0;
+
+        for(int i = 0; i < k; i++) {
+            char c = s.charAt(i);
+
+            if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
                 count++;
-            }
         }
-        int ans=count;
-        for(int i=k;i<s.length();i++){
-            char c=s.charAt(i);
-            if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'){
+
+        int ans = count;
+
+        for(int i = k; i < s.length(); i++) {
+
+            char enter = s.charAt(i);
+            char leave = s.charAt(i-k);
+
+            if(enter=='a'||enter=='e'||enter=='i'||enter=='o'||enter=='u')
                 count++;
-            }
-            while((i-low+1)>k){
-                char b=s.charAt(low);
-                if(count>0){
-                if(b=='a'||b=='e'||b=='i'||b=='o'||b=='u'){
-                    count--;
-                    
-                }}
-                else{
-                    count=0;
-                }
-                low++;
-            }
-            ans=Math.max(ans,count);
+
+            if(leave=='a'||leave=='e'||leave=='i'||leave=='o'||leave=='u')
+                count--;
+
+            ans = Math.max(ans, count);
         }
+
         return ans;
     }
 }
