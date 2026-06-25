@@ -4,10 +4,7 @@ class Solution {
         int low=0;
         int high=people.length-1;
         int count=0;
-        while(low<high){
-            int sum=people[low]+people[high];
-            while (low <= high) {
-
+        while(low<=high){
             if (people[low] + people[high] <= limit) {
                 low++;
             }
@@ -15,8 +12,6 @@ class Solution {
             count++;
 
             }
+            return count;
         }
-        return count;
-
-    }
 }
