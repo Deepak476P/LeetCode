@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak476P/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepak476P/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak476P/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Deepak476P/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak476P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Deepak476P/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak476P/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Deepak476P/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak476P/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Deepak476P/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Deepak476P/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Deepak476P/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak476P/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Deepak476P/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deepak476P/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Deepak476P/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Deepak476P/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepak476P/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Deepak476P/LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Deepak476P/LeetCode/tree/master/0881-boats-to-save-people) |
