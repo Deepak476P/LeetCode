@@ -13,12 +13,10 @@ class Solution {
 
                 if (intervals[j][0] <= start &&
                     intervals[j][1] >= end) {
-                    covered = true;
+                    count++;
                     break;
                 }
             }
-
-            if (covered) count++;
         }
 
         return n - count;
