@@ -6,7 +6,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int start = intervals[i][0];
             int end = intervals[i][1];
-            boolean covered = false;
 
             for (int j = 0; j < n; j++) {
                 if (i == j) continue;
