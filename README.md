@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Deepak476P/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Deepak476P/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Deepak476P/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Deepak476P/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak476P/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepak476P/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Deepak476P/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepak476P/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Deepak476P/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Deepak476P/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepak476P/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deepak476P/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
